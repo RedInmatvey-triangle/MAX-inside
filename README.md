@@ -247,6 +247,6 @@ Max выходит за рамки обычного мессенджера, пр
 
 ## Лицензия
 
-GNU GPL v3 License
+MPL v3 License
 
 Copyright (c) 2025 Redin Matvey
